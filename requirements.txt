@@ -1,0 +1,16 @@
+# requirements.txt
+# Core data processing and mathematical foundations (Exp 9, 10, 11)
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Graph structures and state space representation (Exp 1, 4, 5)
+networkx>=3.0
+
+# Probabilistic graphical modeling & Bayesian inference (Exp 3)
+pgmpy>=0.1.23
+torch>=2.0.0
+
+# Terminal output formatting and visualizations (Exp 13)
+tabulate>=0.9.0
+matplotlib>=3.7.0
